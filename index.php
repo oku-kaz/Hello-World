@@ -1,5 +1,5 @@
 <?php
-    $i=10;
+    $i=20;
     while($i){
         echo $i;
         echo '<br>';
