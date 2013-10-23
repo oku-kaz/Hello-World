@@ -1,9 +1,9 @@
 <?php
-    $i=10;
+    $i=30;
     while($i){
         echo $i;
         echo '<br>';
         $i --;
     }
 ?>
-test
+testtest
